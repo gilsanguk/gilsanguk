@@ -3,7 +3,7 @@
 <div align="center">
    
  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sona_supporter)](https://solved.ac/sona_supporter)
-<img src="http://mazandi.herokuapp.com/api?handle=sona_supporter&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=sona_supporter&theme=cold"/>
 </div>
 <div align="center">
  
