@@ -5,8 +5,8 @@
    <img src="http://mazandi.herokuapp.com/api?handle=sona_supporter&theme=dark"/>
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gilsanguk&show_icons=true&theme=dark&card_width=200"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsanguk&layout=compact&theme=dark&langs_count=10"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=gilsanguk&show_icons=true&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsanguk&layout=compact&theme=dark&langs_count=8"/>
 </div>
   
 ***
