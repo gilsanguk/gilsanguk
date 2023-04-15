@@ -4,7 +4,7 @@
    
    ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sona_supporter)
    
-   ![mazandi profile](http://mazandi.herokuapp.com/api?handle={sona_supporter}&theme=dark)
+   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=sona_supporter&theme=dark)
 </div>
 <div align="center">
    
