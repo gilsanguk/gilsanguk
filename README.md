@@ -6,10 +6,8 @@
 <img src="http://mazandi.herokuapp.com/api?handle=sona_supporter&theme=cold"/>
 </div>
 <div align="center">
- 
- ![gilsanguk's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilsanguk&show_icons=true&theme=dark)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilsanguk&layout=compact)](https://github.com/gilsanguk/github-readme-stats)
+![gilsanguk's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilsanguk&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilsanguk&layout=compact)
 </div>
   
 ***
