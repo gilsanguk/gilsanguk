@@ -5,14 +5,14 @@
  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sona_supporter)](https://solved.ac/sona_supporter)
 <img src="http://mazandi.herokuapp.com/api?handle=sona_supporter&theme=cold"/>
 </div>
-<div align="center">
+<div>
  
  [![gilsanguk's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilsanguk)](https://github.com/gilsanguk/github-readme-stats) 
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilsanguk&layout=compact)](https://github.com/gilsanguk/github-readme-stats)
 </div>
   
----
+***
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
