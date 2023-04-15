@@ -1,16 +1,12 @@
 # Gil sang-uk 😉
 
 <div align="center">
-   
-   ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sona_supporter)
-   
-   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=sona_supporter&theme=dark)
+   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sona_supporter"/>
+   <img src="http://mazandi.herokuapp.com/api?handle=sona_supporter&theme=dark"/>
 </div>
 <div align="center">
-   
-![gilsanguk's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilsanguk&show_icons=true&theme=dark)
-   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilsanguk&layout=compact)
+    <img src="https://github-readme-stats.vercel.app/api?username=gilsanguk&show_icons=true&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsanguk&layout=compact"/>
 </div>
   
 ***
