@@ -1,9 +1,6 @@
 # Gil sang-uk 😉
 
 <div align="center">
-   <img src="https://oreuda.kr/api/v1/plant/card?nickname=gilsanguk"/>
-</div>
-<div align="center">
    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sona_supporter"/>
    <img src="http://mazandi.herokuapp.com/api?handle=sona_supporter&theme=dark"/>
 </div>
