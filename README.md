@@ -5,7 +5,7 @@
 </div>
 <div align="center">
    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sona_supporter"/>
-   <img src="http://mazandi.herokuapp.com/api?handle=sona_supporter&theme=light"/>
+   <img src="http://mazandi.herokuapp.com/api?handle=sona_supporter&theme=warm"/>
 </div>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=gilsanguk&show_icons=true&theme=dark&card_width=150"/>
