@@ -6,7 +6,7 @@
 </div>
 <div align="center">
    <img src="https://oreuda.kr/api/v1/plant/card?nickname=gilsanguk"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsanguk&layout=compact&theme=dark&langs_count=8"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsanguk&layout=compact&theme=dark&langs_count=6"/>
 </div>
   
 ***
